@@ -1,0 +1,26 @@
+{
+  "name": "@ervandra/prettier-config",
+  "version": "0.0.1",
+  "description": "Ervandra's base prettier configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ervandra/prettier-config"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": {
+    "name": "Ervandra Halim",
+    "email": "hi@ervandra.dev",
+    "twitter": "@ervandra.dev"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ervandra/prettier-config/issues"
+  },
+  "dependencies": {
+    "prettier": "^1.x.x"
+  }
+}
